@@ -1,0 +1,30 @@
+*{
+  background-color: rgb(171, 209, 241);
+}
+.main{
+  /* display: flex;  */
+  /* padding: 10%; */
+  margin-left: 100vh;
+  margin-top: 30vh;
+ 
+}
+
+
+button {
+  background-color: #4CAF50; /* Green */
+  color: #fff; /* White */
+   border: none; 
+  padding: 10px 20px; /* Padding */
+  font-family: Arial, sans-serif; /* Font */
+  font-size: 20px; /* Font size */
+  cursor: pointer; /* Cursor shape */
+}
+
+button:hover {
+  background-color: #3e8e41; /* Darker green on hover */
+}
+
+button:active {
+  background-color: #2e6c31; /* Even darker green on click */
+}
+
